@@ -2,7 +2,7 @@ module swap_v2
 
 go 1.19
 
-require github.com/ilkamo/jupiter-go v0.0.5
+require github.com/Rodert/jupiter-go v0.0.5
 
 require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.4 // indirect

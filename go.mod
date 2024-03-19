@@ -1,4 +1,4 @@
-module github.com/ilkamo/jupiter-go
+module github.com/Rodert/jupiter-go
 
 go 1.20
 

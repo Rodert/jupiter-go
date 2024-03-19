@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ilkamo/jupiter-go/jupiter"
+	"github.com/Rodert/jupiter-go/jupiter"
 )
 
 func main() {

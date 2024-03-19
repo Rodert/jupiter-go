@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ilkamo/jupiter-go/jupiter"
-	"github.com/ilkamo/jupiter-go/solana"
+	"github.com/Rodert/jupiter-go/jupiter"
+	"github.com/Rodert/jupiter-go/solana"
 	"time"
 )
 
