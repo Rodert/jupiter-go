@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	UserPublicKey = "your public key here"
-	walletPrivateKey := "your private key"
+	UserPublicKey    = "your public key here"
+	walletPrivateKey = "your private key"
 )
 
 func main() {
@@ -64,7 +64,7 @@ func GetSwapJson() *jupiter.SwapResponse {
 
 	// Get the current quote for a swap
 	quoteResponse, err := jupClient.GetQuoteWithResponse(ctx, &jupiter.GetQuoteParams{
-		InputMint: "So11111111111111111111111111111111111111112",
+		InputMint:   "So11111111111111111111111111111111111111112",
 		OutputMint:  "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
 		Amount:      10000,
 		SlippageBps: &slippageBps,
