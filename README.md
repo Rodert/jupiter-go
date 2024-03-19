@@ -5,6 +5,12 @@ This library provides a simple way to interact with the [Jupiter](https://jup.ag
 
 <img align="right" width="200" src="assets/jup-gopher.png">
 
+---
+
+[English](README.md) | [简体中文](README_ZH.md)
+
+---
+
 ## Installation
 
 ```bash

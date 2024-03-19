@@ -1,6 +1,6 @@
 module github.com/ilkamo/jupiter-go
 
-go 1.21.3
+go 1.20
 
 require (
 	github.com/gagliardetto/binary v0.7.7
